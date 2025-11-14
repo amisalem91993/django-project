@@ -10,6 +10,10 @@ header {
     padding: 40px;
 }
 
+a {
+    color: black;
+}
+
 section {
     width: 40%;
     max-width: 500px;
